@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Fabiane Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=Fdinizp&show_icons=true&theme=dracula)   ![Fabiane Diniz GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fdinizp&layout=compact&langs_count=7&theme=dracula)
+![Fabiane Diniz GitHub stats](https://github-readme-stats.vercel.app/api?username=Fdinizp&show_icons=true&theme=radical)   ![Fabiane Diniz GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fdinizp&layout=compact&langs_count=7&theme=radical)
 
 
 <!--
